@@ -16,7 +16,7 @@
 //Inisiasi LCD pada Blynk
 WidgetLCD lcd(lcd_pin);
 
-//Kondifurasi Token Blynk, dan Jaringan WiFi
+//Konfigurasi Token Blynk, dan Jaringan WiFi
 char auth[]="KWt6YDepcUpaQnigGsX9GT2bC_hHV49s";
 char ssid[]="MSI_173";
 char pass[]="123456789";
