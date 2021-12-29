@@ -17,7 +17,7 @@ char pass[]="123456789";
 DHT dht(sensorSuhu, tipeSensor);
 
 bool state;
-bool mod;
+bool alert;
 String doorState;
 
 void setup() {
@@ -41,8 +41,8 @@ void loop() {
   Blynk.run();
   //Door Sensor
   state = digitalRead(sensorPintu);
-  mod = digitalRead(alarm);
-  if(mod == LOW){
+  alert = digitalRead(alarm);
+  if(alert == HIGH){
     if(state) {
       doorState = "DOOR_CLOSED";
       digitalWrite(buzz, LOW);
