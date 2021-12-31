@@ -10,3 +10,6 @@ Video demo dapat dilihat diwabah ini:
 2. Widodo 119140156
 3. Robi Setiawan 119140146
 4. Athif Najmudin 119140191
+
+## Diagram Alat!
+[Uploading diagram blok.drawio.png…]()
