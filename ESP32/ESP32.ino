@@ -42,7 +42,7 @@ void setup() {
   //Door Sensor
   pinMode(sensorPintu, INPUT_PULLUP);
   stateChange = 0;
-
+  
   //LED pada ESP32
   pinMode(led, OUTPUT);
 
