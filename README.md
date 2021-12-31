@@ -3,7 +3,9 @@ Projek ini menghasilkan alat yang dapat memonitoring kamar balita dengan menggun
 
 Video demo dapat dilihat diwabah ini:
 
-[![Video Demo](https://img.youtube.com/vi/bpQRUnW4Bow/0.jpg)](https://www.youtube.com/embed/bpQRUnW4Bow)
+<p align="center">
+  [![Video Demo](https://img.youtube.com/vi/bpQRUnW4Bow/0.jpg)](https://www.youtube.com/embed/bpQRUnW4Bow)
+</p>
 
 ## Anggota Kelompok
 1. Akbar Maulana 119140151
