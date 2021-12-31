@@ -12,4 +12,4 @@ Video demo dapat dilihat diwabah ini:
 4. Athif Najmudin 119140191
 
 ## Diagram Alat!
-[Uploading diagram blok.drawio.png…]()
+![Diagram Alat](https://user-images.githubusercontent.com/83702513/147822942-e78218df-c8d9-422e-843d-c26e57b9b21c.png)
