@@ -5,7 +5,8 @@ Video demo dapat dilihat diwabah ini:
 
  [![Video Demo](https://img.youtube.com/vi/bpQRUnW4Bow/0.jpg)](https://www.youtube.com/embed/bpQRUnW4Bow)
  
-Laporan Akhir Dapat dilihat disini: [embed]https://github.com/barbar17/Project-Embedded-Child-Monitoring/files/7800638/Laporan_Embedded.pdf[/embed]
+Laporan Akhir Dapat dilihat disini: [Link Laporan!](https://github.com/barbar17/Project-Embedded-Child-Monitoring/files/7800651/Laporan_Embedded.pdf)
+
  
 ## Anggota Kelompok
 1. Akbar Maulana 119140151
