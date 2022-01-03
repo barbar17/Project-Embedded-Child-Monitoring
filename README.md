@@ -13,3 +13,6 @@ Video demo dapat dilihat diwabah ini:
 
 ## Diagram Blok Alat
 ![Diagram Alat](https://user-images.githubusercontent.com/83702513/147822942-e78218df-c8d9-422e-843d-c26e57b9b21c.png)
+
+## Laporan Akhir
+[Laporan Akhir](https://github.com/barbar17/Project-Embedded-Child-Monitoring/files/7800638/Laporan_Embedded.pdf)
